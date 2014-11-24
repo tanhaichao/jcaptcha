@@ -1,0 +1,24 @@
+ ------
+ Introduction
+ ------
+ Fu shimei
+ ------
+ 2012-03-27
+ ------
+
+COMMONS:项目说明
+
+  COMMONS:项目介绍.
+
+
+* Usage
+
+  COMMONS:公共类库使用说明.
+
+* Examples
+
+  To provide you with better understanding of some usages of the Maven Minify Plugin,
+  you can take a look into the following examples:
+
+  * {{{./examples/dependency.html}包依懒方式引入.}}
+

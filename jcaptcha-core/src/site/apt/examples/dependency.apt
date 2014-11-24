@@ -1,0 +1,28 @@
+ ------
+ Basic Configuration
+ ------
+ Samuel Santos
+ ------
+ 2010-11-08
+ ------
+
+依懒配置
+
+* Configure Maven Minify Plugin
+
+  	可以使用以下配置加入您的pom.xml.
+
++---+
+<project>
+  [...]
+  <dependencies>
+    <dependency>
+        <groupId>com.commons.site</groupId>
+        <artifactId>xxx</artifactId>
+        <version>xxx</version>
+    </dependency>
+  </dependencies>
+  [...]
+</project>
++---+
+

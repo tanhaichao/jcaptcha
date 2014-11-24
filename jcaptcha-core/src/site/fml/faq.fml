@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faqs id="FAQ" title="Frequently Asked Questions">
+    <part id="General">
+        <faq id="question">
+            <question>该项目使用场景是?</question>
+            <answer>
+                <p>该项目使用场景是xxx.</p>
+            </answer>
+        </faq>
+    </part>
+</faqs>
