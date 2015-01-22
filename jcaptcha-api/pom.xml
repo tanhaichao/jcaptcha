@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<artifactId>jcaptcha</artifactId>
-		<groupId>io.leopard.commons</groupId>
+		<groupId>io.leopard.thirdparty</groupId>
 		<version>2.0.0-SNAPSHOT</version>
 		<relativePath>..</relativePath>
 	</parent>
